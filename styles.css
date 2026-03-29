@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
-body:first-child{
+.img{
 	height:300px;
 	width:200px;
 	opacity:50%;
 }
-body:last-child{
+.p{
 	width:300px;
 	position:absolute;
 	top:50%;
